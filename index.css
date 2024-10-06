@@ -1,0 +1,60 @@
+#element{
+    font-size: 20px;
+    color: rgb(245, 7, 126);
+}
+body{
+    font-family: 'Poppins',sans-serif;
+}
+
+button{
+    font-size: 18px;
+    margin-left: 100px;
+}
+#about{
+    color:white;
+    margin-left: 30px;
+    height: 600px;
+    width: 50%;
+}
+.project{
+    margin-left: 50px;
+}
+.short:hover{
+    height: 510px;
+box-shadow: 2px 2px 5px 5px  white;
+transition: 2s;
+
+}
+.pro:hover{
+    margin-bottom: 10px;
+    
+    transition: 2s;
+
+}
+ul a{
+
+    text-decoration: none;
+    color: white;
+}
+span a{
+    text-decoration: none;
+    color: white;
+}
+.a i{
+
+    height: 200px;
+    width: 100px;
+    color: white;
+}
+ a img:hover{
+    transition: 1s;
+    
+    margin-bottom:10px ;
+
+
+}
+.footer{
+    height: 100px;
+    background-color: black;
+    width: 100%;
+}
